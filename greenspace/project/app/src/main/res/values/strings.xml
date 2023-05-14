@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">greenspace</string>
+    <string name="logo">GreenSpace</string>
+    <string name="strapnote">Make a difference!</string>
+    <string name="email">E-Mail</string>
+    <string name="email_hint">user@mail.com</string>
+    <string name="password">Password</string>
+    <string name="passwordhere">password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="head_1">Splatts Abbey Wood</string>
+    <string name="head_2">Sims Hill Woodland</string>
+    <string name="head_3">Siston Common</string>
+    <string name="head_4">Avon Valley Woodland</string>
+    <string name="head_5">Huckford Quarry</string>
+    <string name="head_6">Ridge Wood</string>
+    <string name="head_7">Three Brooks</string>
+    <string name="head_8">Warmley Forest Park</string>
+
+
+</resources>
